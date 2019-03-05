@@ -9,7 +9,7 @@ com.research.innovate.patterns.nullobject
  *
  */
 
-public abstract class Entity implements BaseEntity{
+protected abstract class Entity implements BaseEntity{
     public Integer id;
     public boolean isNull(){return false;}
 }
