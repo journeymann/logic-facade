@@ -9,7 +9,7 @@ com.research.innovate.patterns.nullobject
  *
  */
 
-interface BaseEntity{
+protected interface BaseEntity{
 
     boolean isNull();
 }
