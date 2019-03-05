@@ -1,5 +1,13 @@
 com.research.innovate.patterns.nullobject.model
 
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+import java.util.Objects;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+import java.util.function.Function;
 import com.research.innovate.patterns.nullobject.*
 
 /**
