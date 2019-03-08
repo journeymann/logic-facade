@@ -1,4 +1,4 @@
-com.research.innovate.patterns.typefactory
+com.research.innovate.patterns.typefactory;
 
 /**
  * @author cgordon
